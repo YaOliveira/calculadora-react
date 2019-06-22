@@ -6,7 +6,9 @@
 *{
   font-family: 'RobotoMono', monospace;
 }
-
+h1{ 
+  font-size: 1.6em;; 
+}
 body {
  display: flex;
  height: 100vh;
