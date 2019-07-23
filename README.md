@@ -1,6 +1,8 @@
 # Calculadora
 ### Essa calculadora realiza as quatro funções básicas: somar, diminuir, dividir e multiplicar.
 
+![Layout da Calculadora](layout-calculator-react.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
